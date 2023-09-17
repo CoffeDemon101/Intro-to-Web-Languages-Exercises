@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .quote-div {
+        background-color: lightskyblue;
+        border: 1px solid black;
+        padding: 20px 0;
+        text-align: center;
+      }
+
+      .quote-text {
+        font-weight: bold;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="quote-div">
+      <p class="quote-text">"There are no super-humans, just humans, and what one man can do, another can do" - Andy Frisella</p>
+    </div>
+  </body>
+</html>
