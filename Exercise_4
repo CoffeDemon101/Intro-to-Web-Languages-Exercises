@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .red {
+        background-color: red;
+        color: white;
+      }
+      .black {
+        background-color: black;
+        color: white;
+      }
+    </style>
+  </head>
+  <body>
+    <p class="red">Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique minus quam consectetur fuga dolores natus culpa eum laboriosam mollitia? Animi iure praesentium ab nostrum facilis sequi porro quasi distinctio voluptatem.</p>
+    <p class="black">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt iure qui laborum minus eveniet nulla temporibus similique consectetur nesciunt aut reiciendis alias voluptatibus voluptas, debitis saepe quo. Reprehenderit, autem tempora?</p>
+    <p class="red">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus voluptatum accusantium voluptate animi, autem veritatis adipisci consectetur quibusdam veniam, aspernatur, inventore eum odio cum pariatur iste unde facere earum rerum.</p>
+    <p class="black">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aspernatur dolorem cupiditate unde vitae. Eos nihil, mollitia, magnam repellat nesciunt aliquid illo nobis consequuntur, recusandae amet asperiores sequi possimus iure veniam!</p>
+    
+  </body>
+</html>
