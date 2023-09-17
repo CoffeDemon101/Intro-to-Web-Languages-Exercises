@@ -1,0 +1,21 @@
+<html>
+ <head>
+   <title>Home Page</title>
+ </head>
+ <body>
+   <h1>About Page</h1>
+   <p>Click <a href="about.html">here</a>To view the About Page, click here.</p>
+   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex dolorem quisquam, quia nesciunt voluptas praesentium recusandae eius qui enim commodi reprehenderit pariatur explicabo consectetur obcaecati adipisci hic dolores culpa. Quia?</p>
+ </body>
+</html>
+
+<html>
+ <head>
+   <title>About Page</title>
+ </head>
+ <body>
+   <h1>About Page</h1>
+   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit deserunt dicta sed fugit, minima similique velit doloremque itaque blanditiis perferendis qui ipsum odio aliquam quia distinctio exercitationem alias dolorum. Inventore. </p>
+   <p>Click <a href="index.html">here</a> Return to the home page, click here.</p>
+ </body>
+</html>
